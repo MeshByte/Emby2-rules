@@ -36,3 +36,6 @@ DOMAIN,streamtape.com
 DOMAIN,tembystream2.285286.xyz
 DOMAIN,tv.ash.yt
 DOMAIN,nsfw-sg.xrbzy.xyz
+
+# IP-CIDR
+IP-CIDR,89.58.30.135/32
